@@ -1,12 +1,7 @@
----
-title: C++中的 Argument-dependent lookup
+# C++中的 Argument-dependent lookup
+
 date: 2018-4-5
-categories:
-- C++
-tags:
-- C++
-- ADL
----
+
 C++中有一项很少被提及，也不怎么被主动使用的特性，就是`Argument-dependent lookup`(ADL),亦即参数依赖的查找。
 
 所谓`Argument-dependent lookup`，又称为`Koenig lookup`，是指在函数调用的过程中，对于 unqualified 的函数名称，有一组规则来找寻这个函数名称所对应的实际函数。除去查找了当前的 scope 和 namespace 后，还会查找实参所在的 namespace 来进一步确认将被调用的是哪个函数。
