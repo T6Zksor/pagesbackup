@@ -2,12 +2,10 @@
 
 date: 2019-02-22
 
-----------
 ## a story
 
 最近遇到了一个问题。创建一个 win32 window 时，有时需要 window 是 child window，有时是 owned window。这二者在它们的 owner/parent window 销毁时，表现略有不同。
 
-----------
 ## delve into
 
 通常的 win32 application 而言，常见的一个 windows message loop 形式如下，
@@ -52,10 +50,10 @@ while( (bRet = GetMessage( &msg, NULL, 0, 0 )) != 0)
 最终还是在文档和网上里找到了答案，总结一下。
 
 ## summary
+- child/parent 和 owned/owner 关系收到 `WM_DESTROY` 的顺序确实不一样
 - 收到 `WM_DESTROY` 代表 window 已经从屏幕上移除，处于销毁过程中，不代表销毁完毕
 - 收到 `WM_NCDESTROY` 代表 window 已经被销毁
 - child/parent 和 owned/owner 关系的实际销毁顺序都是“子窗口”先销毁，“父窗口”后销毁
-- child/parent 和 owned/owner 关系收到 `WM_DESTROY` 的顺序确实不一样
 - 阅读文档很重要，切忌望文生义
 
 --------
@@ -63,3 +61,4 @@ while( (bRet = GetMessage( &msg, NULL, 0, 0 )) != 0)
 - https://docs.microsoft.com/en-us/windows/desktop/winmsg/using-messages-and-message-queues
 - https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-destroywindow
 - https://stackoverflow.com/questions/3155782/what-is-the-difference-between-wm-quit-wm-close-and-wm-destroy-in-a-windows-pr/3155879#3155879
+- https://blogs.msdn.microsoft.com/oldnewthing/20050726-00/?p=34803
