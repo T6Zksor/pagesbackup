@@ -18,4 +18,4 @@
 
 ## Book notes
 
-- [2019-04-10] [Flask Web 开发](docs\2019-04-10-flask-web-book-note.md)
+- [2019-04-10] [Flask Web 开发](docs/2019-04-10-flask-web-book-note.md)
