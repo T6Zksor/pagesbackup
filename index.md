@@ -29,6 +29,10 @@
 
 - [2019-04-10] [Flask Web 开发](docs/book-notes/2019-04-10-flask-web-book-note.md)
 
+## Thoughts
+
+- [2019-04-10] [设计模式很有用](docs/thoughts/2017-06-20-design-pattern-is-useful.md)
+
 ## Memo meme
 
 - [Memo meme](docs/memo-meme.md)
