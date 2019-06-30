@@ -21,6 +21,7 @@
 - [2018-04-06] [(翻译)高效现代 C++ 编程 - 条款1：理解模板类型推导 (Understand template type deduction)](docs/cpp/2018-04-06-effective-modern-cpp-item-1.md)
 - [2018-04-06] [(翻译)高效现代 C++ 编程 - 前言](docs/cpp/2018-04-06-effective-modern-cpp-prefix.md)
 - [2018-04-05] [C++ 中的 ADL](docs/cpp/2018-04-05-adl-in-cpp.md)
+- [2017-07-12] [Modern C++ get buffer](docs/cpp/2017-07-12-modern-cpp-get-buffer.md)
 
 ## Book notes
 
