@@ -26,11 +26,15 @@
 - [2017-07-12] [Modern C++ get buffer](docs/cpp/2017-07-12-modern-cpp-get-buffer.md)
 - [2017-07-06] [strcpy 到 ZString 的奇怪现象](docs/cpp/2017-07-06-shallow-strcpy-copy.md)
 
-## Book notes
+## Misc
+
+- [2017-05-12] [Preprocessor line number error](docs/misc/2017-05-12-preprocessor-line-number-error.md)
+
+## Book notes are good
 
 - [2019-04-10] [Flask Web 开发](docs/book-notes/2019-04-10-flask-web-book-note.md)
 
-## Thoughts
+## Thought my thoughts
 
 - [2019-04-10] [设计模式很有用](docs/thoughts/2017-06-20-design-pattern-is-useful.md)
 
