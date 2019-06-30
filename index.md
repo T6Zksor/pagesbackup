@@ -1,21 +1,19 @@
 # A tin can in a tin can
 
----
-## Last 10 posts
+## Last 5 posts
 
 - [2019-05-22] [C1002: compiler is out of space in pass 2](docs/win/2019-05-22-c1002-compiler-is-out-of-heap-space-in-pass-2.md)
 - [2019-04-27] [How Windows APIs organized](docs/win/2019-04-27-how-windows-apis-organized.md)
 - [2019-04-10] [Flask Web 开发](docs/book-notes/2019-04-10-flask-web-book-note.md)
 - [2019-02-22] [销毁 window 时 child window 和 owned window 收到消息的区别](docs/win/2019-02-22-owned-child-window-in-destroying.md)
 - [2018-04-06] [(翻译)高效现代 C++ 编程 - 条款1：理解模板类型推导 (Understand template type deduction)](docs/cpp/2018-04-06-effective-modern-cpp-item-1.md)
-- [2018-04-06] [(翻译)高效现代 C++ 编程 - 前言](docs/cpp/2018-04-06-effective-modern-cpp-prefix.md)
-- [2018-04-05] [C++ 中的 ADL](docs/cpp/2018-04-05-adl-in-cpp.md)
 
 ## Windows down into deep
 
 - [2019-05-22] [C1002: compiler is out of space in pass 2](docs/win/2019-05-22-c1002-compiler-is-out-of-heap-space-in-pass-2.md)
 - [2019-04-27] [How Windows APIs organized](docs/win/2019-04-27-how-windows-apis-organized.md)
 - [2019-02-22] [销毁 window 时 child window 和 owned window 收到消息的区别](docs/win/2019-02-22-owned-child-window-in-destroying.md)
+- [2017-08-10] [Visual studio RC string limit](docs/win/2017-08-10-vs-rc-string-limit.md)
 
 ## Cpp a great horror
 
