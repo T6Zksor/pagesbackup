@@ -15,6 +15,7 @@
 - [2019-02-22] [销毁 window 时 child window 和 owned window 收到消息的区别](docs/win/2019-02-22-owned-child-window-in-destroying.md)
 - [2017-08-10] [Visual studio RC string limit](docs/win/2017-08-10-vs-rc-string-limit.md)
 - [2017-08-09] [GetLongPathName API 的路径大小写问题](docs/win/2017-08-09-getlongname-api-case-insensitive.md)
+- [2017-06-22] [WriteFile API 第四个参数不能为 NULL](docs/win/2017-06-22-writefile-api-4th-param-cannot-be-null.md)
 
 ## Cpp a great horror
 
