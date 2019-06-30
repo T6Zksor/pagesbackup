@@ -22,6 +22,7 @@
 - [2018-04-06] [(翻译)高效现代 C++ 编程 - 前言](docs/cpp/2018-04-06-effective-modern-cpp-prefix.md)
 - [2018-04-05] [C++ 中的 ADL](docs/cpp/2018-04-05-adl-in-cpp.md)
 - [2017-07-12] [Modern C++ get buffer](docs/cpp/2017-07-12-modern-cpp-get-buffer.md)
+- [2017-07-06] [strcpy 到 ZString 的奇怪现象](docs/cpp/2017-07-06-shallow-strcpy-copy.md)
 
 ## Book notes
 
