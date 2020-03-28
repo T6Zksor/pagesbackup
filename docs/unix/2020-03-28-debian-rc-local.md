@@ -20,7 +20,6 @@ Debian 9 默认没有开启 `rc-local`，开启步骤
     # By default this script does nothing.
 
     exit 0
-    EOF
     ```
 
 2. `chmod +x /etc/rc.local`
