@@ -24,4 +24,4 @@ Debian 9 默认没有开启 `rc-local`，开启步骤
 
 2. `chmod +x /etc/rc.local`
 
-3. `systemctl enable rc-local`
+3. `systemctl start rc-local`
