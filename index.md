@@ -2,7 +2,7 @@
 
 ## Last 5 posts
 
-- [2020-09-15] [Computer Networking](docs/misc/2020-09-15-computer.networking.md)
+- [2020-09-15] [Computer Networking 笔记](docs/misc/2020-09-15-computer-networking-note.md)
 - [2019-05-22] [C1002: compiler is out of space in pass 2](docs/win/2019-05-22-c1002-compiler-is-out-of-heap-space-in-pass-2.md)
 - [2019-04-27] [How Windows APIs organized](docs/win/2019-04-27-how-windows-apis-organized.md)
 - [2019-04-10] [Flask Web 开发](docs/book-notes/2019-04-10-flask-web-book-note.md)
